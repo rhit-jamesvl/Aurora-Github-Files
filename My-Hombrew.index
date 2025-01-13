@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+	<info>
+		<name>Tori's Homebrew</name>
+		<description>All of my indexes.</description>
+		<update version="0.0.1">
+			<file name="AuroraLegacy.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/AuroraLegacy.index" />
+		</update>
+	</info>
+	<files>
+		<file name="revisedRanger.xml" url="https://raw.githubusercontent.com/rhit-jamesvl/homebrew-auroraFiles/refs/heads/main/Homebrew/20160912%20(1).xml" />
+		<file name="HomebrewPanFlute.xml" url="https://raw.githubusercontent.com/rhit-jamesvl/homebrew-auroraFiles/refs/heads/main/Homebrew/HomeBrewPanflute.xml" />
+		<file name="unearthed-arcana.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana.index" />
+		<file name="collaborations.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/collaborations.index" />
+	</files>
+</index>
