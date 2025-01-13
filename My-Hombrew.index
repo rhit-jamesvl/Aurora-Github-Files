@@ -10,7 +10,6 @@
 	<files>
 		<file name="revisedRanger.xml" url="https://raw.githubusercontent.com/rhit-jamesvl/homebrew-auroraFiles/refs/heads/main/Homebrew/20160912%20(1).xml" />
 		<file name="HomebrewPanFlute.xml" url="https://raw.githubusercontent.com/rhit-jamesvl/homebrew-auroraFiles/refs/heads/main/Homebrew/HomeBrewPanflute.xml" />
-		<file name="unearthed-arcana.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana.index" />
-		<file name="collaborations.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/collaborations.index" />
+		<file name="additional-conclaves.xml" url="https://raw.githubusercontent.com/rhit-jamesvl/homebrew-auroraFiles/refs/heads/main/Homebrew/additional-conclaves.xml" />
 	</files>
 </index>
