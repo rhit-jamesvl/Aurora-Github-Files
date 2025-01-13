@@ -4,7 +4,7 @@
 		<name>Tori's Homebrew</name>
 		<description>All of my indexes.</description>
 		<update version="0.0.1">
-			<file name="AuroraLegacy.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/AuroraLegacy.index" />
+			<file name="My-Homebrew.index" url="https://raw.githubusercontent.com/rhit-jamesvl/Aurora-Github-Files/refs/heads/main/My-Hombrew.index" />
 		</update>
 	</info>
 	<files>
