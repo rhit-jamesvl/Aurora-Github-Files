@@ -8,8 +8,8 @@
 		</update>
 	</info>
 	<files>
-		<file name="revisedRanger.xml" url="https://raw.githubusercontent.com/rhit-jamesvl/homebrew-auroraFiles/refs/heads/main/Homebrew/20160912%20(1).xml" />
-		<file name="HomebrewPanFlute.xml" url="https://raw.githubusercontent.com/rhit-jamesvl/homebrew-auroraFiles/refs/heads/main/Homebrew/HomeBrewPanflute.xml" />
-		<file name="additional-conclaves.xml" url="https://raw.githubusercontent.com/rhit-jamesvl/homebrew-auroraFiles/refs/heads/main/Homebrew/additional-conclaves.xml" />
+		<file name="revisedRanger.xml" url="https://raw.githubusercontent.com/rhit-jamesvl/Aurora-Github-Files/refs/heads/main/Homebrew/20160912%20(1).xml" />
+		<file name="HomebrewPanFlute.xml" url="https://raw.githubusercontent.com/rhit-jamesvl/Aurora-Github-Files/refs/heads/main/Homebrew/HomeBrewPanflute.xml" />
+		<file name="additional-conclaves.xml" url="https://raw.githubusercontent.com/rhit-jamesvl/Aurora-Github-Files/refs/heads/main/Homebrew/additional-conclaves.xml" />
 	</files>
 </index>
